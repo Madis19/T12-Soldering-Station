@@ -7,8 +7,8 @@
 #define DISPLAY_0802
 //#define DISPLAY_1602_I2C
 
-#ifdef DISPLAY_1602_I2C
-#include "dspl_1602_i2c.h"
+//#ifdef DISPLAY_1602_I2C
+//#include "dspl_1602_i2c.h"
 #endif
 
 #ifdef DISPLAY_0802
@@ -22,4 +22,4 @@
  */
 #define MAX_CUSTOM_TIPS (42)
 
-#endif
+//#endif
